@@ -1,0 +1,30 @@
+{
+    "destination": "San Francisco, CA",
+    "duration_length": 1,
+    "itinerary": [
+      {
+        "day": "1",
+        "activities": [
+          {
+            "name": "Golden Gate Bridge",
+            "type": "Attraction",
+            "description": "Iconic suspension bridge offering panoramic views of the bay.",
+            "coordinates": {"lat": 37.8199, "lon": -122.4783}
+          },
+          {
+            "name": "Fisherman's Wharf",
+            "type": "Attraction",
+            "description": "Vibrant area with seafood restaurants, cafes, and souvenir shops.",
+            "coordinates": {"lat": 37.8080, "lon": -122.4177}
+          },
+          {
+            "name": "Scoma's Restaurant",
+            "type": "Restaurant",
+            "description": "Renowned seafood restaurant offering fresh, local catches.",
+            "coordinates": {"lat": 37.8084, "lon": -122.4180}
+          }
+        ]
+      }
+    ]
+  }
+  
